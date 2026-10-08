@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "packageName": "com.streamnator.app",
+  "versionCode": 7,
+  "versionName": "1.2.0",
+  "apkUrl": "https://raw.githubusercontent.com/shstprvvv/-TV/main/apk/klik-tv-1.2.0.apk",
+  "sha256": "be49c2a43ce926084d072d8086ced0415d766c2bc41c3657fdac39827a2989e1",
+  "sizeBytes": 3158911,
+  "notes": "Проверка обновлений при запуске. Обязательная установка новых версий с пульта. Каналы и логотипы КЛИК TV."
+}
